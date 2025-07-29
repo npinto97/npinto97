@@ -34,6 +34,7 @@ Here are some of the projects I’ve worked on. For more details, feel free to e
 - 🔐 **Fraud Detection**: ML models for financial fraud using XGBoost, RF, and Naive Bayes  
 - 🚆 **Train Delay Prediction**: Combining ML and Knowledge Graphs for predictive analytics  
 - 🖼️ **Amodal Shape Completion**: Predicting occluded objects in images with CNNs and UNet  
+- 🌬️ **S2R-Wind**: Evaluating semi-supervised models (S2RMS, CLUS+) against supervised baselines
 
 👉 More on my GitHub repositories!
 
