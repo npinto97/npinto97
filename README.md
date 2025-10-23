@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nicolas Pinto
 
-🎓 I'm a Master's student in Artificial Intelligence with a background in Computer Science.  
+🎓 I'm a graduate in Artificial Intelligence with a background in Computer Science.  
 🔍 I’m passionate about exploring how AI can be used to solve real-world problems, with a focus on NLP, LLM and Agentic AI.  
 🤖 I’m especially interested in applied research, AI accessibility, and ethical/transparent AI systems.  
 
@@ -8,9 +8,9 @@
 
 ## 🚀 About Me
 
-- 📚 Currently studying for my MSc in Computer Science - Artificial Intelligence  
-- 🎓 Graduated with honors in Computer Science (BSc)  
-- 🧪 Involved in research projects on web accessibility and usability testing with AI  
+- 🎓 Graduated with full marks and an honorable Career Mention in Computer Science – Artificial Intelligence (MSc)
+- 🎓 Previously earned a Bachelor’s degree in Computer Science with honors  
+- 🧪 Experienced in research projects on web accessibility and usability testing with AI 
 - 💬 Always eager to collaborate on innovative AI-based solutions  
 - 📍 Based in Bari - Italy <!--, available for collaboration-->
 
